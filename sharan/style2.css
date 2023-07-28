@@ -1,0 +1,147 @@
+body{
+    background: url("sharan2.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+pre{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    position: absolute;
+    top: 130px;
+    left: 100px;
+    color: wheat;
+
+}
+.a{
+    width: 180px;
+    height: 600px;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    background:whitesmoke;
+    box-shadow:  20px 20px 19px rgb(0, 0, 0);
+    border-radius: 15px;
+    background: rgb(255,255,255);
+    background: linear-gradient(120deg, rgb(233, 102, 185) 50%, rgb(45, 43, 136) 50%);
+}
+.b{
+    width: 700px;
+    height: 400px; 
+    position: absolute;
+    top: 250px;
+    left: 600px;
+    display: inline;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:wheat
+}
+.e{
+    position: absolute;
+    top: 0px; 
+    left:350px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 1px black solid;
+    background: transparent;
+    outline: none;
+
+}
+.f{
+    position: absolute;
+    top: 50px; 
+    left:350px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 1px black solid;
+    background: transparent;
+    outline: none;
+}
+.g{
+    position: absolute;
+    top: 100px; 
+    left:350px;
+}
+.h{
+    position: absolute;
+    top: 150px; 
+    left: 350px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 1px black solid;
+    background: transparent;
+    outline: none;
+}
+.i{
+    position: absolute;
+    top: 200px; 
+    left: 350px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 1px black solid;
+    background: transparent;
+    outline: none;
+}
+.j{
+    position: absolute;
+    top: 250px; 
+    left: 350px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 1px black solid;
+    background: transparent;
+    outline: none;
+}
+.c{
+    position: absolute;
+    top: 100px;
+    left: 450px;
+
+}
+.male{
+    position: absolute;
+    top:100px ;
+    left: 370px;
+}
+.female{
+    position: absolute;
+    top:100px ;
+    left: 470px;
+}
+.box{
+    width: 750px;
+    height: 450px; 
+    position: absolute;
+    top: 150px;
+    left: 500px;
+    box-shadow:  20px 20px 19px rgb(0,0,0.5);
+    background-color:whitesmoke;
+    border-radius: 10px;
+       background: rgb(255,255,255);
+    background: linear-gradient(120deg, rgb(233, 102, 185) 50%, rgb(45, 43, 136) 50%);
+}
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    position: absolute;
+    top: 50px;
+    left: 700px;
+    font-size: 35px;
+    color:wheat;
+}
+button{
+    position: absolute;
+    top: 280px;
+    left: 240px;
+    color: grey;
+    outline: none;
+    background: transparent;
+    color:wheat;
+    width: 100px;
+    height: 30px;
+}

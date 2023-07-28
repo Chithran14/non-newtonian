@@ -1,0 +1,22 @@
+body{
+    background: url("sharan2.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.apple{
+    font-size: 25px;
+    color: wheat;
+    width: 600px;
+    height: 900px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 800px;
+}
+img{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    box-shadow: 0 0 10px rgb(196, 67, 205);
+}
